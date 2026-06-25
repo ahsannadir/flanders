@@ -1,6 +1,6 @@
+streamlit
 ultralytics
 transformers
 faiss-cpu
 seaborn-image
-opencv-python
-streamlit
+opencv-python-headless
