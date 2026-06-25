@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../valid/images
+
+nc: 1
+names: ['balcony']
+
+roboflow:
+  workspace: ahsan-wfhvj
+  project: balcony-pcynl
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ahsan-wfhvj/balcony-pcynl/dataset/1
